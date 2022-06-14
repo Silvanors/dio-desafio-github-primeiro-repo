@@ -2,9 +2,9 @@ Markdowns link de comandos:
 https://www.markdownguide.org/basic-syntax/
 
 Comandos da aula:
-- git clone https://github.com/Silvanors/dio-desafio-github-primeiro-repo.git
-- git status
-- git add .
-- git commit -m "Inclusão das anotações do curso de Git/GitHub"
-- git push origin main
+-git clone https://github.com/Silvanors/dio-desafio-github-primeiro-repo.git
+-git status
+-git add .
+-git commit -m "Inclusão das anotações do curso de Git/GitHub"
+-git push origin main
 
