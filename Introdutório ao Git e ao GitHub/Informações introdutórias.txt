@@ -1,0 +1,8 @@
+Markdowns link de comandos:
+https://www.markdownguide.org/basic-syntax/
+
+Comando da aula:
+1. git clone https://github.com/Silvanors/dio-desafio-github-primeiro-repo.git
+1. git status
+1. git add .
+1. 
